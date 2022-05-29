@@ -1,2 +1,8 @@
 # This file is machine-generated - editing it directly is not advised
 
+[[Wrangle]]
+git-tree-sha1 = "06e49f0237ce1509f888c00478a186783fbf0806"
+repo-rev = "main"
+repo-url = "/Users/CAT79/.julia/dev/Wrangle"
+uuid = "d68deb43-14e0-4e4c-9309-995745fd6c75"
+version = "0.1.0"

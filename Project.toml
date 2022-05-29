@@ -3,6 +3,9 @@ uuid = "b188a6aa-4168-47a5-b448-d815053ed4e3"
 authors = ["ctrebbau <ctrebbau@pm.me> and contributors"]
 version = "0.1.0"
 
+[deps]
+Wrangle = "d68deb43-14e0-4e4c-9309-995745fd6c75"
+
 [compat]
 julia = "1"
 
