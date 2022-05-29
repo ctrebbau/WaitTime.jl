@@ -1,6 +1,4 @@
-module Wrangle
-
-using CSV, DataFrames, PyCall, Dates, Statistics, MLJ, GLMakie
+using CSV, DataFrames, PyCall, Dates, Statistics
 
 export wrangle, interptime
 """
@@ -99,4 +97,3 @@ function wrangle(path="/Users/CAT79/Job/sql_scripts/RequestArrivalTime/request_p
 end
 
 interptime(t) = "$(t * 2.777778e-4) hours or $(t ÷ 60) minutes"
-end 
